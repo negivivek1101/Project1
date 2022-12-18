@@ -22,3 +22,5 @@ A. git remote -v
 - rafce: To create new component in new file fast.
 
 Q. git init to commit in vite
+
+Q. git remote add origin

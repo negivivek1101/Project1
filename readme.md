@@ -13,8 +13,8 @@ A. ctrl+L
 Q. install dependency
 A. npm i react-router-dom(routing), react-icons, sass
 
-Q.
-A.
+Q.this command shows existing remote on a current repository.
+A. git remote -v
 
 ## Useful Snippets:
 
